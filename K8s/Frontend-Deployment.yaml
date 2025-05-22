@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: cicdmicrosvc1.azurecr.io/frontend:22
+        image: cicdmicrosvc1-d4g7c6aehxc5amfa.azurecr.io/frontend:22
         ports:
         - containerPort: 80
 ---
