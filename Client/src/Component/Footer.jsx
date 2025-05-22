@@ -12,8 +12,7 @@ export const Footer = () => {
           </a>
           <p className="footer-text">
             It was popularised in the 1960s with the release of Letraset sheets
-            containing Lorem passages and more recently with desktop publishing
-            software like including.
+            ding.
           </p>
           <ul className="social-list">
             <li>
